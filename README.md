@@ -6,4 +6,4 @@
  [`Facebook`](https://www.facebook.com/MrQureshi-xd/)
 [`Watsapp`](https://www.wa.me/+923118933642)
 
-![IMG][979a2757fece3c38a0850d748a634e8f](https://user-images.githubusercontent.com/64306867/190128173-2b12ddab-f8b5-4718-939a-8e510086bc94.jpg)
+![IMG](https://user-images.githubusercontent.com/64306867/190128173-2b12ddab-f8b5-4718-939a-8e510086bc94.jpg)
