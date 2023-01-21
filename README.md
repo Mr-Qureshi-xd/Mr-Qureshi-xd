@@ -4,13 +4,13 @@
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-    WELLCOME TO MR-QURESHI GITHUB  
+    Mr-Qureshi-x'd Here'×   
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mr+Qureshi;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+For++Your+Love)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Follow'×+My+Github+Jhon'×)](https://git.io/typing-svg)
  
 </p>
  
