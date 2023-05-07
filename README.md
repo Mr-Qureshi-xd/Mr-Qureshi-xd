@@ -94,12 +94,13 @@
  
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/MrDarkYT/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrDarkYT&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MrDarkYT GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/MrDarkYT/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHADI-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/Mr-Qureshi-xd/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrDarkYT&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr-Qureshi-xd GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/Mr-Qureshi-xd/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Qureshi-xdlayout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MrDarkYT&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mahadi's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Mr-Qureshi-xd 
+     &hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mr Qureshi'w GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
@@ -113,7 +114,7 @@
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/MrDarkYT/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MrDarkYT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Mr-Qureshi-xd/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Mr-Qureshi-xd &bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
 
 
